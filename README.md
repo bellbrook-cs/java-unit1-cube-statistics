@@ -2,9 +2,22 @@
 
 ## Problem Statement
 
-## Input Description
+The surface area and volume of a cube can be found if given the length of an edge. Write a program that takes the length of an edge (an integer) as a literal value, then prints the cube's surface area and volume as output. Be sure to test your code!!
 
 ## Sample Input/Output
+
+### Input
+
+```java
+int edgeLength = 4;
+```
+
+### Output
+
+```
+Cube Surface Area: 96
+Cube Volume: 64
+```
 
 ## Submission
 
