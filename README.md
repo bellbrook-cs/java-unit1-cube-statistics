@@ -1,4 +1,4 @@
-# Template Assignment
+# Cube Statistics
 
 ## Problem Statement
 
